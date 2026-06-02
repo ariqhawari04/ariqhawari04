@@ -17,7 +17,7 @@ An analytical and strategy-driven Data Professional with an **M.Sc. in Business 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** Python, SQL (PostgreSQL, MySQL, BigQuery)
 * **Data Science Stack:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-* **BI & Productivity:** Metabase, Superset, Tableau, Looker Studio, Power BI
+* **BI Tools:** Metabase, Superset, Tableau, Looker Studio, Power BI
 
 ---
 
