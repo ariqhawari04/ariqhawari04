@@ -24,7 +24,7 @@ An analytical and strategy-driven Data Professional with an **M.Sc. in Business 
 ### 📈 Featured Projects
 
 * 👥 **[RFM Customer Segmentation Framework](https://github.com/ariqhawari04/rfm-customer-segmentation)** - Machine learning-driven analysis segmenting over 10,000+ commercial users to optimize targeted campaigns.
-* 📊 **[Executive Commercial Dashboards](YOUR_LINK_HERE)** - Interactive BI platforms aligning operational and marketing KPIs.
+* 📊 **[Executive Commercial Dashboards](https://github.com/ariqhawari04/ecommerce-customer-journey-dashboard)** - Interactive BI platforms aligning operational and marketing KPIs.
 * :arrow_right: More to come!
 
 ---
