@@ -23,7 +23,7 @@ An analytical and strategy-driven Data Professional with an **M.Sc. in Business 
 
 ### 📈 Featured Projects
 * 🛒 **[Predictive Dynamic Pricing Model](YOUR_LINK_HERE)** - Grade-A Master's dissertation on AI-driven pricing strategies based on practical business constraints.
-* 👥 **[RFM Customer Segmentation Framework](YOUR_LINK_HERE)** - Machine learning-driven analysis segmenting over 10,000+ commercial users to optimize targeted campaigns.
+* 👥 **[RFM Customer Segmentation Framework](https://github.com/ariqhawari04/rfm-customer-segmentation)** - Machine learning-driven analysis segmenting over 10,000+ commercial users to optimize targeted campaigns.
 * 📊 **[Executive Commercial Dashboards](YOUR_LINK_HERE)** - Interactive BI platforms aligning merchandising, marketing, and operational KPIs.
 
 ---
